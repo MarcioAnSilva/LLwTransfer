@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "584174799521",
+    "firebase_url": "https://llwtransfer-6fa41.firebaseio.com",
+    "project_id": "llwtransfer-6fa41",
+    "storage_bucket": "llwtransfer-6fa41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584174799521:android:7c8d702e66114ccf477ee0",
+        "android_client_info": {
+          "package_name": "br.com.llwtransfer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584174799521-g839k7ghooqnjaslgs256amtrrt4f6gp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.llwtransfer",
+            "certificate_hash": "0d4162970113b829815fa7001b8f6712502d7f95"
+          }
+        },
+        {
+          "client_id": "584174799521-83vjqjbga9pcdoot67lp61ml16t6hcea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ8zSkZnputoPo6y4pT8OoEP-1Dk9c2NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584174799521-83vjqjbga9pcdoot67lp61ml16t6hcea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

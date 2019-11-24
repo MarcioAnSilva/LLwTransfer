@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_passageiro"
+        icon="@drawable/iconepassageiro"
+        title="Passaggeiros" />
+    <tab
+        id="@+id/tab_motorista"
+        icon="@drawable/iconecarro"
+        title="Motoristas" />
+    <tab
+        id="@+id/tab_corrida"
+        icon="@drawable/iconecorrida"
+        title="Corridas" />
+    <tab
+        id="@+id/tab_locais"
+        icon="@drawable/iconelocais"
+        title="Locais" />
+    <tab
+        id="@+id/tab_administrador"
+        icon="@drawable/iconepassageiro"
+        title="Administradores" />
+</tabs>

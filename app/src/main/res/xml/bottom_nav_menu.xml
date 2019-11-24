@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/tab_passageiro"
+        android:enabled="true"
+        android:icon="@drawable/iconepassageiro"
+        android:title="Passageiros"
+        app:showAsAction="ifRoom"
+        android:checkable="true" />
+    <item
+        android:id="@+id/tab_motorista"
+        android:enabled="true"
+        android:icon="@drawable/iconecarro"
+        android:title="Motoristas"
+        app:showAsAction="ifRoom"
+        android:checkable="true"/>
+
+    <item
+        android:id="@+id/tab_corrida"
+        android:enabled="true"
+        android:icon="@drawable/iconecorrida"
+        android:title="Corridas"
+        app:showAsAction="ifRoom"
+        android:checkable="true"/>
+
+    <item
+        android:id="@+id/tab_locais"
+        android:enabled="true"
+        android:icon="@drawable/iconelocais"
+        android:title="Locais"
+        app:showAsAction="ifRoom"
+        android:checkable="true"/>
+
+    <item
+        android:id="@+id/tab_administrador"
+        android:enabled="true"
+        android:icon="@drawable/iconepassageiro"
+        android:title="Administradores"
+        app:showAsAction="ifRoom"
+        android:checkable="true"/>
+</menu>

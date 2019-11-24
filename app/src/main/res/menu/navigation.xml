@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tab_passageiro"
+        android:icon="@drawable/iconepassageiro"
+        android:title="@string/passageiros" />
+
+    <item
+        android:id="@+id/tab_motorista"
+        android:icon="@drawable/iconecarro"
+        android:title="@string/motoristas" />
+
+    <item
+    android:id="@+id/tab_corrida"
+    android:icon="@drawable/iconecorrida"
+    android:title="@string/corridas" />
+
+    <item
+        android:id="@+id/tab_locais"
+        android:icon="@drawable/iconelocais"
+        android:title="@string/locais" />
+
+    <item
+        android:id="@+id/tab_administrador"
+        android:icon="@drawable/iconepassageiro"
+        android:title="@string/administrador" />
+
+</menu>

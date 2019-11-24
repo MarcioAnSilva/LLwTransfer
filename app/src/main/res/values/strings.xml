@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LLWTransfer</string>
+    <string name="lista_corridas">Lista de Corridas</string>
+    <string name="botao_entrar">Entrar</string>
+    <string name="sair">Sair</string>
+    <string name="passageiros">Passageiros</string>
+    <string name="motoristas">Motoristas</string>
+    <string name="corridas">Corridas</string>
+    <string name="locais">Locais</string>
+    <string name="administrador">Administrador</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="Cadastro_Passageiros">Cadastro Passageiros</string>
+    <string name="title_activity_corridas__atividade">Corridas_Atividade</string>
+    <string name="title_activity_botao__navegacao">Botao_Navegacao</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_principal__atividade">Principal_Atividade</string>
+    <string name="Dados_Passageiro">Dados do Passageiro</string>
+    <string name="salvar">Salvar</string>
+    <string name="Cadastro_Motorista">Cadastro Motorista</string>
+</resources>
+
